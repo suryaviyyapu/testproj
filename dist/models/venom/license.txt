@@ -1,0 +1,11 @@
+Model Information:
+* title:	Venom Headbust
+* source:	https://sketchfab.com/3d-models/venom-headbust-0d6bd1fdba35469981ed35c38fae0486
+* author:	Himanshu Pandey (https://sketchfab.com/himanshu.pan98)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Venom Headbust" (https://sketchfab.com/3d-models/venom-headbust-0d6bd1fdba35469981ed35c38fae0486) by Himanshu Pandey (https://sketchfab.com/himanshu.pan98) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
